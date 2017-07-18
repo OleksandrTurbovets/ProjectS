@@ -1,5 +1,3 @@
-package Training;
-
 public class LightSpeed {
     public static void main(String[] args) {
         double lightSpeed = 299792458;
